@@ -1,0 +1,14 @@
+# ninja log v6
+1653	6329	7406180402733621	CMakeFiles/final_project.dir/mainwindow.cpp.obj	c7ea3381d21d31ae
+16	168	7406180644684662	C:/Projects/final_project/final_project/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	9ed0fb0080b2481
+212	1617	7406180400574278	final_project_autogen/timestamp	97544706d0c978b7
+1641	6186	7406180402613894	CMakeFiles/final_project.dir/main.cpp.obj	2d2a3eacd180d059
+212	1617	7406180400574278	final_project_autogen/mocs_compilation.cpp	97544706d0c978b7
+212	1617	7406180400574278	C:/Projects/final_project/final_project/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/final_project_autogen/timestamp	97544706d0c978b7
+212	1617	7406180400574278	C:/Projects/final_project/final_project/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/final_project_autogen/mocs_compilation.cpp	97544706d0c978b7
+1630	6102	7406180402513957	CMakeFiles/final_project.dir/final_project_autogen/mocs_compilation.cpp.obj	cfc7fc11bfb53fce
+6330	7152	7406180449499714	final_project.exe	1692522ccd07dd8f
+168	2428	7406180667149035	build.ninja	1f15ec4de04126b5
+12	146	7406180667968587	C:/Projects/final_project/final_project/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	9ed0fb0080b2481
+14	148	7406181132633680	C:/Projects/final_project/final_project/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	9ed0fb0080b2481
+13	146	7406181288696012	C:/Projects/final_project/final_project/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	9ed0fb0080b2481
